@@ -20,4 +20,5 @@ else:
         n2 = sum  #for every iteration, n2 will be stored in n1, adn sum value will be stores in n2
         sum = n1 + n2 #this process with add preceeding 2 numbers and process will cotninue until condition is satsifed
 
+
  
